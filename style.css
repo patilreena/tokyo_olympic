@@ -1,0 +1,26 @@
+.logo {
+  width: 50px;
+}
+
+.article {
+  min-height: 250px;
+}
+
+ul {
+  list-style: none;
+}
+
+.footer {
+  background-color: #D3D3D3;
+  margin-top: 5%;
+}
+
+.vid-div {
+  padding-top: 30px;
+}
+
+@media (min-width: 768px) {
+  .article {
+    min-height: 450px;
+  }
+}
